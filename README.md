@@ -1,4 +1,4 @@
-# NOTE: This lib is gonna be developed for [Vybo Labs`s Version](https://lyntr.fae5.de/) now
+# ARCHIVED PROJECT
 
 # lyntrpy
  A api wrapper for lyntr`s api in python
